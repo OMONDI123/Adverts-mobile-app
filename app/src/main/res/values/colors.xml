@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_blue">#4EB7E4</color>
+    <color name="light_blue1">#4ECDE4 </color>
+    <color name="material_dynamic_neutral_variant95">#EBF1F8</color>
+    <color name="material_dynamic_neutral_variant20">#2A3136</color>
+    <color name="colorError">#FF7043</color>
+    <color name="holo_green_dark">#669900</color>
+    <color name="holo_green_light">#99cc00</color>
+    <color name="colorPrimaryDark">#1c6ab4</color>
+    <color name="colorAccent">#1c6ab4</color>
+    <color name="colorPrimary">#1c6ab4</color>
+    <color name="selected_dot">#1c6ab4</color>
+    <color name="ob_header">#4A4A4A</color>
+    <color name="ob_desc">#4A4A4A</color>
+    <color name="blue">#4EA8E6</color>
+    <color name="colorWarning">#d60e00</color>
+    <color name="main_gray">#000000</color>
+    <color name="grey_200">#EEEEEE</color>
+    <color name="grey_400">#DDDDDD</color>
+    <color name="primecolor">#0a3a6b</color>
+    <color name="gray_hint">#A7A4A4</color>
+    <color name="green_icon_color">#0C7C04</color>
+    <color name="transparent">#f3a920</color>
+<color name="holo_blue_light">#33B5E5</color>
+</resources>

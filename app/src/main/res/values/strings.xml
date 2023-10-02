@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Adverts App</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string-array name="gender_entries">
+        <item>Private Driver</item>
+        <item>Mechanic</item>
+        <item>Spare Part Dealer</item>
+    </string-array>
+    <string-array name="identity_documents">
+        <item>National ID</item>
+        <item>Passport</item>
+    </string-array>
+
+    <string-array name="savings_types">
+        <item>Normal Savings</item>
+        <item>Education Booster</item>
+        <item>Insurance</item>
+    </string-array>
+
+    <string-array name="Loans_types">
+        <item>Special Loan</item>
+        <item>Development Loan</item>
+        <item>Product Loan</item>
+        <item>Advance Loan</item>
+    </string-array>
+
+    <string name="select_savings_prompt">Select Savings Type</string>
+
+
+</resources>
